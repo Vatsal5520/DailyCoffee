@@ -1,0 +1,59 @@
+
+	
+main
+{	
+	display:block;
+	height:450px;
+}
+
+main aside
+{	
+	height:300px;
+	display:block;
+	float:right;
+	background-color:lightyellow;
+	width:20%;
+	border:1px solid black;
+}
+
+
+main section
+{	
+	height:300px;
+	width:300px;
+	display:block;
+	float:auto;
+	text-align:left;
+	border-right:1px solid white; 
+	width:80%;
+}
+
+main section p
+{
+	font-family:Georgia,Arial;
+	margin:10px;
+	
+}
+main aside p
+{
+	font-style:italic;
+	margin:10px;
+	color:black;
+}
+main aside h3
+{
+	color:black;
+}
+
+h3
+{
+	text-align:center;
+	color:black;
+	background-color:lightblue;
+	border:1px solid black;
+	padding-bottom :  25px 25px 25px 25px;
+}
+body
+{
+	background-color:mintcream;
+}
